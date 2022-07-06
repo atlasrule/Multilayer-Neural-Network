@@ -1,7 +1,4 @@
-# Reads mnist train and test image data
-#
-# Muslum Berkay Yılmaz
-# No: 2018280056
+# Reads train and test image data
 
 from PIL import Image
 import glob
