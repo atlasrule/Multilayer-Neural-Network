@@ -1,6 +1,3 @@
-# Muslum Berkay Yılmaz
-# No: 2018280056
-
 from random import uniform
 from math import exp
 
