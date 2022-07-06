@@ -1,6 +1,3 @@
-# Muslum Berkay Yılmaz
-# No: 2018280056
-
 from read_png import get_data
 from mlp import train
 
